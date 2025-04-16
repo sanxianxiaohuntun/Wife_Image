@@ -29,7 +29,7 @@ Wife Image 是一个为聊天框架提供桌面形象的插件，可以在 Windo
 
 发送以下命令给bot即可自动安装
 ```
-!plugin get https://github.com/sanxianxiaohuntun/pica_plugin
+!plugin get https://github.com/sanxianxiaohuntun/Wife_Image
 ```
 
 ## 手动安装方法
