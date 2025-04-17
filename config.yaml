@@ -15,7 +15,7 @@ chat_bubble:
   text_color: rgb(0, 0, 0)
 emotion_reset:
   auto_reset: true
-  default_emotion: "\u9ED8\u8BA4"
+  default_emotion: "默认"
   reset_delay: 5
 emotions: {}
 position:
@@ -29,7 +29,7 @@ tts:
   api_url: https://api.qhaigc.net
   enabled: true
   max_text_length: 300
-  model: "qhai-tts:\u6C38\u96CF\u5854\u83F2"
+  model: "qhai-tts:爱丽丝"
 window:
   always_on_top: false
   current_height: 480
