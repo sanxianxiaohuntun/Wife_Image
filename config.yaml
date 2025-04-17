@@ -25,7 +25,7 @@ position:
 process:
   use_separate_process: true
 tts:
-  api_key: sk-W3vm6EvHlIvlZhoAZoZGA8ukJOTGPSaOZeuDNSc9ZECiTzcG
+  api_key: 你的key
   api_url: https://api.qhaigc.net
   enabled: true
   max_text_length: 300
