@@ -1,0 +1,41 @@
+access_control:
+  admins:
+  - 2926253308
+  enabled: true
+  whitelist: []
+chat_bubble:
+  background_color: rgba(255, 255, 255, 0.85)
+  border_radius: 10
+  font_size: 12
+  max_chars_per_line: 30
+  max_lines: 5
+  max_width: 300
+  padding: 10
+  show_duration: 5
+  text_color: rgb(0, 0, 0)
+emotion_reset:
+  auto_reset: true
+  default_emotion: "\u9ED8\u8BA4"
+  reset_delay: 5
+emotions: {}
+position:
+  remember: true
+  x: 1526
+  y: 265
+process:
+  use_separate_process: true
+tts:
+  api_key: sk-W3vm6EvHlIvlZhoAZoZGA8ukJOTGPSaOZeuDNSc9ZECiTzcG
+  api_url: https://api.qhaigc.net
+  enabled: true
+  max_text_length: 300
+  model: "qhai-tts:\u6C38\u96CF\u5854\u83F2"
+window:
+  always_on_top: false
+  current_height: 480
+  current_width: 357
+  default_height: 320
+  default_width: 240
+  drag_enabled: true
+  opacity: 1
+  resize_enabled: true
