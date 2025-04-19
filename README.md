@@ -1,6 +1,8 @@
 # Wife Image 桌面桌宠插件（老婆桌宠） - 多模态后续系统中层交互界面
 
+# 演示视频
 
+https://www.bilibili.com/video/BV1ot5HzCErd
 
 # 求助
 
